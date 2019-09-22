@@ -57,7 +57,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
- “siteurl”: “https://smartstudyplatform.com/learn”,
+    "siteurl": "https://smartstudyplatform.com/learn",
     "font_sizes": [
         62.5,
         75.89,
