@@ -62,8 +62,9 @@
         75.89,
         93.75
     ],
+    "demo_sites": {},
     "customurlscheme": "moodlemobile",
-    "siteurl": "smartstudyplatform.com/learn",
+    "siteurl": "https://smartstudyplatform.com/learn",
     "sitename": "smartstudyplatform",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,

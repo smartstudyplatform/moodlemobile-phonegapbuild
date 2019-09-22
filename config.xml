@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.Smartstudy.Smartstudymobile"
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
     <name>Moodle</name>
 
     <description>
-        Moodle official app
+        Smartstudy app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="https://smartstudyplatform.com/learn/" email="mobile@moodle.com">
         Moodle Mobile team
     </author>
 
