@@ -57,18 +57,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https://smartstudyplatform.com/learn",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://smartstudyplatform.com/learn",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+ “siteurl”: “http://mysite.abc”,
     "font_sizes": [
         62.5,
         75.89,
