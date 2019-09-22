@@ -1,6 +1,6 @@
-﻿{
-    "app_id": "com.smartstudy.smartstudymobile",
-    "appname": "smart study",
+{
+    "app_id": "com.moodle.moodlemobile",
+    "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1",
@@ -59,12 +59,12 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https://smartstudyplatform.com/learn",
+            "url": "https:\/\/school.moodledemo.net",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https://smartstudyplatform.com/learn",
+            "url": "https:\/\/school.moodledemo.net",
             "username": "teacher",
             "password": "moodle"
         }
