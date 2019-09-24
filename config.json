@@ -62,7 +62,7 @@
     "demo_sites": {},
     "siteurl": "https://smartstudyplatform.com/learn/",
     "sitename": "smartstudyplatform",
-    "multisitesdisplay": "",
+    "multisitesdisplay": falses,
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
