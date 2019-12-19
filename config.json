@@ -70,13 +70,9 @@
         93.75
     ],
 <<<<<<< HEAD
-    "siteurl": "https://smartlearn.education",
     "sitename": "smartlearn",
 =======
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://smartlearn.education",
-    "presets" : {"url": "https://smartlearn.education", "username": ""},
-    "sitename": "smartlearn",
     "multisitesdisplay": falses,
 >>>>>>> 99005845c36b7bc0c1e5565230cf946a660961ec
     "skipssoconfirmation": false,
