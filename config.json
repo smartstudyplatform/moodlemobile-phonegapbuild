@@ -1,9 +1,13 @@
 ﻿{
-    "app_id": "com.smartstudy.smartstudymobile",
-    "appname": "smart study",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.moodle.moodlemobile",
+    "appname": "Smartlearn",
+    "desktopappname": "Smartlearn",
     "versioncode": 3710,
     "versionname": "3.7.1",
+    "cache_update_frequency_usually": 420000,
+    "cache_update_frequency_often": 1200000,
+    "cache_update_frequency_sometimes": 3600000,
+    "cache_update_frequency_rarely": 43200000,
     "default_lang": "en",
     "languages": {
         "ar": "عربي",
@@ -53,16 +57,14 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "font_sizes": [
+    "presets" : {"url": "https://smartlearn.education", "username": ""},
+        "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
-    "customurlscheme": "moodlemobile",
-    "demo_sites": {},
-    "siteurl": "https://smartstudyplatform.com/learn/",
-    "sitename": "smartstudyplatform",
-    "multisitesdisplay": falses,
+    "siteurl": "https://smartlearn.education",
+    "sitename": "smartlearn",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
