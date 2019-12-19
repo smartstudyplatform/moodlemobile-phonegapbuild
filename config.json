@@ -1,7 +1,13 @@
 ﻿{
+<<<<<<< HEAD
     "app_id": "com.moodle.moodlemobile",
     "appname": "Smartlearn",
     "desktopappname": "Smartlearn",
+=======
+    "app_id": "com.smartlearn.smartlearnmobile",
+    "appname": "smartlearn",
+    "desktopappname": "Moodle Desktop",
+>>>>>>> 99005845c36b7bc0c1e5565230cf946a660961ec
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
@@ -63,8 +69,16 @@
         75.89,
         93.75
     ],
+<<<<<<< HEAD
     "siteurl": "https://smartlearn.education",
     "sitename": "smartlearn",
+=======
+    "customurlscheme": "moodlemobile",
+    "siteurl": "https://smartlearn.education",
+    "presets" : {"url": "https://smartlearn.education", "username": ""},
+    "sitename": "smartlearn",
+    "multisitesdisplay": falses,
+>>>>>>> 99005845c36b7bc0c1e5565230cf946a660961ec
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",

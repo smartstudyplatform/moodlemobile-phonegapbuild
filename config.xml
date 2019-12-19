@@ -12,7 +12,11 @@
         smartlearn app
     </description>
 
+<<<<<<< HEAD
     <author href="http://moodle.com" email="smart@moodle.com">
+=======
+    <author href="https://smartlearn.education" email="mobile@smartlearn.com">
+>>>>>>> 99005845c36b7bc0c1e5565230cf946a660961ec
        smartlearn
     </author>
 
