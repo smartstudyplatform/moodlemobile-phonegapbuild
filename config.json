@@ -1,13 +1,9 @@
-{
+﻿{
     "app_id": "com.smartlearn.smartlearnmobile",
     "appname": "smartlearn",
-    "desktopappname": "smartlearn Desktop",
-    "versioncode": 3800,
-    "versionname": "3.8.0",
-    "cache_update_frequency_usually": 420000,
-    "cache_update_frequency_often": 1200000,
-    "cache_update_frequency_sometimes": 3600000,
-    "cache_update_frequency_rarely": 43200000,
+    "desktopappname": "Moodle Desktop",
+    "versioncode": 3710,
+    "versionname": "3.7.1",
     "default_lang": "en",
     "languages": {
         "ar": "عربي",
@@ -63,8 +59,10 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-
+    "siteurl": "https://smartlearn.education",
+    "presets" : {"url": "https://smartlearn.education", "username": ""},
+    "sitename": "smartlearn",
+    "multisitesdisplay": falses,
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
@@ -77,6 +75,5 @@
     "statusbarlighttextandroid": true,
     "statusbarbgremotetheme": "#000000",
     "statusbarlighttextremotetheme": true,
-    "enableanalytics": false,
-    "forceColorScheme": ""
+    "enableanalytics": false
 }
