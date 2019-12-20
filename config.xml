@@ -7,14 +7,14 @@
         android-versionCode = "38000"
         ios-CFBundleVersion = "3.8.0.0"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>smartlearn</name>
 
     <description>
-        Moodle official app
+       smartlearn official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        smartlearn Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
