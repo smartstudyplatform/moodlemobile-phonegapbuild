@@ -2,19 +2,19 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.smartlearn.smartlearnmobile"
+        id        = "com.moodle.moodlemobile"
         versionCode = "38000"
         android-versionCode = "38000"
         ios-CFBundleVersion = "3.8.0.0"
         version   = "3.8.0">
-    <name>smartlearn</name>
+    <name>Moodle</name>
 
     <description>
-       smartlearn official app
+        Moodle official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        smartlearn Mobile team
+        Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
@@ -203,7 +203,7 @@
     </gap:plugin>
 
     <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:launchMode='singleTop']" mode="merge">
-        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="false" android:name="MainActivity"></activity>
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true" android:name="MainActivity"></activity>
     </edit-config>
     <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/application">
         <application android:usesCleartextTraffic="true" />
