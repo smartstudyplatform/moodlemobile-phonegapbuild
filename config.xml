@@ -7,7 +7,7 @@
         android-versionCode = "38000"
         ios-CFBundleVersion = "3.8.0.0"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>Smart Learn</name>
 
     <description>
         Moodle official app
