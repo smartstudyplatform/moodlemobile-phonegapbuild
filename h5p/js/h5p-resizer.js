@@ -127,6 +127,5 @@
       iframes[i].contentWindow.postMessage(ready, '*');
     }
   }
-
      FullScreen()
 })();
