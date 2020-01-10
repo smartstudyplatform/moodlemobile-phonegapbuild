@@ -19,7 +19,7 @@
   actionHandlers.hello = function (iframe, data, respond) {
     // Make iframe responsive
     iframe.style.width = '100%';
-    iframe.style.height = '100%';
+
     // Bugfix for Chrome: Force update of iframe width. If this is not done the
     // document size may not be updated before the content resizes.
     iframe.getBoundingClientRect();
