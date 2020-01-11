@@ -1,0 +1,3 @@
+                                      clickableEl.addEventListener(eventName, function () {
+                        // User played media or opened a downloadable link.
+                        // Download the file if in wifi and it hasn't been downloaded already (for big files).
